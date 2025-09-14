@@ -1,0 +1,29 @@
+# ===== Ambiente Virtual =====
+.venv/
+venv/
+env/
+
+# ===== Cache do Python =====
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# ===== Configurações locais =====
+*.env
+*.env.local
+.DS_Store
+*.log
+
+# ===== Configurações do VSCode =====
+.vscode/
+.history/
+
+# ===== Cache do Streamlit =====
+.streamlit/
+
+# ===== Arquivos temporários =====
+*.tmp
+*.swp
+*.bak
+
