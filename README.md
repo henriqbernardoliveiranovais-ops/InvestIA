@@ -3,12 +3,12 @@
 > Turma: B | Curso: CIÊNCIA DA COMPUTAÇÃO | Período: NOTURNO | Ano: 2025
 
 ## Equipe e Papéis
-| Integrante | RA | Papel principal | Principais entregas (commits/arquivos) |
-|------------|----|------------------|----------------------------------------|
+| Integrante | RA | Papel principal |
+|------------|----|------------------|
 | Simone Gomes Marque | 2225106336 | Apresentação | Vídeo, roteiro, slides |
-| Henriq Bernard Oliveira Novais | 2225108340 | Engenharia de Dados / Modelagem / Documentação | MultipleFiles/data_preprocessing.py, MultipleFiles/model_training.py, README.md |
-| Radamés Marcellino Ferreira | 2225100831 | Engenharia de Dados / Modelagem | MultipleFiles/data_preprocessing.py, MultipleFiles/model_training.py |
-| Guilherme Araújo do Carmo | 2225102897 | Engenharia de Dados / Avaliação & Gráficos / Edição | MultipleFiles/InvestIA.py (seção de gráficos), reports/figures/* |
+| Henriq Bernard Oliveira Novais | 2225108340 | Engenharia de Dados / Modelagem / Documentação 
+| Radamés Marcellino Ferreira | 2225100831 | Engenharia de Dados / Modelagem
+| Guilherme Araújo do Carmo | 2225102897 | Engenharia de Dados / Avaliação & Gráficos / Edição
 
 ---
 
