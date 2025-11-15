@@ -144,9 +144,7 @@ A aplicação será aberta em seu navegador padrão.
 
 ## 8. Execução do Vídeo (YouTube — não listado)
 
-Link: (A ser inserido)
-
-Roteiro seguido: problema → dados → IA → execução ao vivo → resultados → conclusão.
+Link: https://youtu.be/xnG7ku8Gais?si=s5oSFSv9iTRml9Xe
 
 ## 9. Créditos e Licença
 
